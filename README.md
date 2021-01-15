@@ -1,2 +1,2 @@
 # SI_TheSateku
-Pendataan dengan Framework Codeigniter
+Pendataan Pesanan sate menggunakan Framework Codeigniter
